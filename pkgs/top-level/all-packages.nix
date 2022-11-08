@@ -1353,6 +1353,8 @@ with pkgs;
 
   httm = callPackage ../tools/filesystems/httm { };
 
+  ironhide = callPackage ../tools/security/ironhide { };
+
   kanata = callPackage ../tools/system/kanata { };
 
   kanata-with-cmd = callPackage ../tools/system/kanata { withCmd = true; };

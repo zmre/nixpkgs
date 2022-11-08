@@ -15702,4 +15702,11 @@
     githubId = 5228243;
     name = "waelwindows";
   };
+  zmre = {
+    name = "Patrick Walsh";
+    matrix = "@zmre:matrix.org";
+    email = "zmre@pm.me";
+    github = "zmre";
+    githubId = 71791;
+  };
 }
